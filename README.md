@@ -148,11 +148,12 @@ Fashion dominates high revenue.
 
 ## 🚀 Quick Start (Run in 5 Minutes)
 
-### 1. Clone the Repository
+### Step 1. Clone the Repository
 
 ```bash
 git clone https://github.com/ingridmunoz/revenue-tier-prediction
 cd revenue-tier-prediction
+```
 
 ### Step 2: Install Python Packages
 ```powershell
